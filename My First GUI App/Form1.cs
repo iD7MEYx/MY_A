@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace My_First_GUI_App
+namespace My_A
 {
     public partial class frmMain : Form
     {
